@@ -1,17 +1,21 @@
 # Final Presentations
 
-**Date:** Sunday, April 18, 2026  
+**Date:** Saturday, April 18, 2026  
 **Audience:** Class, instructors, and BJ Hargrave (IBM)
 
-Final presentations are your opportunity to showcase what your team built during the hackathon week. This page outlines the format, requirements, and evaluation criteria.
+Final presentations are your opportunity to showcase what your team built during sprint week. This page outlines the format, requirements, and evaluation criteria.
 
 ---
 
 ## Presentation Format
 
-- **Length:** TBD — specific time slots will be announced before April 18
+- **Length:** TBD (announced before closeout)
 - **Format:** Live presentation with slides; include a live demo or video demo of your project
-- **Order:** Teams will be assigned a presentation order (announced before April 18)
+- **Order:** Team order announced before the session
+- **Session timing:**
+	- **4:00 PM** Team presentations
+	- **5:00 PM** Awards + next steps
+	- **5:30 PM** Closing remarks
 
 ---
 
@@ -35,6 +39,8 @@ Your presentation should cover the following:
 
 8. **Future Work** — If you had more time, what would you add or improve?
 
+9. **Contribution Artifact** — Link to your PR, issue, documentation contribution, or prototype repository.
+
 ---
 
 ## Slide Deck Guidelines
@@ -54,12 +60,19 @@ Presentations will be evaluated on the following dimensions:
 
 | Criterion | Description |
 |-----------|-------------|
-| **Use of IBM Granite** | How effectively and creatively did you use Granite? Did you leverage it in a meaningful way? |
-| **Innovation & Creativity** | Is the idea original and interesting? Does it solve a real problem? |
-| **Technical Execution** | Does the project work? Is the code well-structured? |
-| **Presentation Quality** | Is the presentation clear, organized, and engaging? |
-| **Demo** | Does the demo clearly showcase the project's capabilities? |
-| **Teamwork** | Did all team members contribute? |
+| **Contribution Quality** | Technical correctness, usefulness, and completeness of the submitted artifact |
+| **Documentation Clarity** | Readability and reproducibility of docs, setup, and usage guidance |
+| **Generative Technique Usage** | Quality of Granite/agentic approach and rationale |
+| **Value to Project** | Practical impact for users, maintainers, or the target repository |
+| **Collaboration** | Evidence of coordinated team execution and iteration |
+| **Presentation Quality** | Clear story, confident delivery, effective demo |
+
+## Recognition Categories
+
+- Best Contribution
+- Best Documentation
+- Best Debugging
+- Most Impactful to Project
 
 ---
 
@@ -78,6 +91,7 @@ Presentations will be evaluated on the following dimensions:
 - Arrive / log in early to test your screen sharing and demo environment.
 - Have your slide deck open and your project running before your slot.
 - One team member should drive the demo while another narrates, or divide it however works best for your team.
+- Keep a local or recorded backup demo ready in case connectivity fails.
 
 ---
 

@@ -1,6 +1,6 @@
-# Learning IBM Granite
+# Learning Granite for the Sprint
 
-IBM Granite is a family of open, enterprise-grade AI foundation models built for business use cases. This page collects the key resources you need to get started quickly.
+This page is the sprint onboarding hub for **Granite**, **Mellea**, and **Docling** project work.
 
 ---
 
@@ -9,9 +9,18 @@ IBM Granite is a family of open, enterprise-grade AI foundation models built for
 IBM Granite models are designed for tasks such as code generation, natural language understanding, summarization, and more. They are available through IBM's [watsonx.ai](https://www.ibm.com/products/watsonx-ai) platform and as open-source models on Hugging Face.
 
 Key properties:
-- **Open & transparent** — model weights and training details are publicly available
-- **Enterprise-ready** — built with safety, trust, and governance in mind
-- **Versatile** — covers code, language, and time-series tasks
+- **Open and transparent** foundation models
+- **Enterprise-oriented** safety and governance focus
+- **Strong fit for coding and agentic tasks** in this sprint context
+
+---
+
+## Sprint Learning Path (Recommended)
+
+1. **Start with one recipe** from the Granite agent cookbook.
+2. **Reproduce it locally** and document what you changed.
+3. **Choose your direction**: Granite agent workflow, Mellea generative programming, or Docling document intelligence.
+4. **Define an MVP** you can demo by April 18.
 
 ---
 
@@ -24,10 +33,26 @@ Key properties:
 | IBM Granite on Hugging Face | <https://huggingface.co/ibm-granite> |
 | Granite model documentation | <https://www.ibm.com/docs/en/watsonx> |
 | IBM Developer — Granite tutorials | <https://developer.ibm.com/components/granite/> |
+| Granite Agent Cookbook | <https://github.com/ibm-granite-community/granite-agent-cookbook> |
+| Mellea | <https://github.com/generative-computing/mellea> |
+| Docling | <https://github.com/docling-project/docling> |
 
 ---
 
-## Model Families
+## Sprint Project Tracks
+
+### Granite Agents
+Build agentic workflows for coding, documentation, or analysis tasks.
+
+### Mellea
+Build generative programs that combine prompting, logic, and iteration.
+
+### Docling
+Build document-processing pipelines with PDF and structured extraction workflows.
+
+---
+
+## Granite Model Families
 
 ### Granite Language Models
 General-purpose large language models for text tasks (summarization, classification, Q&A, generation).
@@ -57,6 +82,7 @@ A model for safety and trust evaluation.
 | Granite code generation notebook | <https://github.com/ibm-granite-community/granite-code-cookbook> |
 | Granite language cookbook | <https://github.com/ibm-granite-community/granite-language-cookbook> |
 | IBM Granite community GitHub | <https://github.com/ibm-granite-community> |
+| Granite agent cookbook | <https://github.com/ibm-granite-community/granite-agent-cookbook> |
 
 ---
 
@@ -96,23 +122,24 @@ A model for safety and trust evaluation.
 
 ---
 
-## Recommended Learning Path
+## Recommended Week Plan
 
 ```
-Week Before Hackathon
+Before Kickoff
 ├── Read the IBM Granite product page
-├── Skim the Hugging Face model cards
-└── Try a notebook from the Granite cookbook
+├── Skim Granite agent cookbook recipes
+└── Pick a tentative project track (Granite / Mellea / Docling)
 
-Kickoff Day (April 12)
-├── Attend BJ Hargrave's presentation
-└── Set up your watsonx.ai environment
+Kickoff Day (Sunday, April 12)
+├── Attend BJ Hargrave's workshop
+├── Confirm tooling setup
+└── Form teams and choose scoped goals
 
-During the Hackathon (April 12–18)
-├── Pick an idea from the Ideas page
-├── Prototype with the Python SDK or REST API
-├── Attend office hours if you get stuck
-└── Iterate!
+Sprint Week (April 13–18)
+├── Build MVP and test daily
+├── Attend office hours when blocked
+├── Prepare one meaningful contribution artifact
+└── Finalize slides + demo for closing session
 ```
 
 ---
