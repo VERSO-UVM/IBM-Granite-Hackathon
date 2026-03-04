@@ -29,4 +29,4 @@ Welcome to the **IBM Granite Hackathon** supporting site for students in Advance
 4. Register your team on the [Teams](teams.md) page.
 5. Check [Office Hours](office-hours.md) if you need help during the week.
 
-Good luck and have fun! 🚀
+Good luck and have fun!
