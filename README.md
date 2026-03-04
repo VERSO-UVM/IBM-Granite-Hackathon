@@ -40,4 +40,4 @@ This sprint is designed to:
 - Strengthen collaboration between IBM, VERSO, and UVM.
 - Create follow-on pathways (research, externships, and additional sprints).
 
-Good luck and have fun! 🚀
+Good luck and have fun!
