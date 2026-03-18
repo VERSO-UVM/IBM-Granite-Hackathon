@@ -44,12 +44,6 @@ Key properties:
 ### Granite Agents
 Build agentic workflows for coding, documentation, or analysis tasks.
 
-### Mellea
-Build generative programs that combine prompting, logic, and iteration.
-
-### Docling
-Build document-processing pipelines with PDF and structured extraction workflows.
-
 ---
 
 ## Granite Model Families
