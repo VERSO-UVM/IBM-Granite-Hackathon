@@ -2,7 +2,7 @@
 
 BJ Hargrave and supporting mentors will be available during sprint week to answer technical questions on Granite, agent workflows, open-source contribution strategy, and project scoping.
 
-This is a fantastic opportunity to get expert guidance directly from IBM — take advantage of it!
+This is a fantastic opportunity to get expert guidance directly from IBM — take advantage of it! Will will be using [GitHub Discussions](https://github.com/VERSO-UVM/IBM-Granite-Hackathon/discussions/categories/office-hours) under the Office Hours category to ask questions during virtual session. 
 
 ---
 
@@ -22,7 +22,7 @@ This is a fantastic opportunity to get expert guidance directly from IBM — tak
 
 ## About BJ Hargrave
 
-BJ Hargrave is a Distinguished Engineer at IBM and a longtime contributor to open-source ecosystems. BJ leads the kickoff workshop and participates in the final review/presentation session on April 18.
+BJ Hargrave is a Distinguished Engineer at IBM and a longtime contributor to open-source ecosystems. BJ leads the kickoff workshop and participates in the final review/presentation session.
 
 ---
 

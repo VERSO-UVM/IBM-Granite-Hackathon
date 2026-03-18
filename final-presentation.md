@@ -1,6 +1,6 @@
 # Final Presentations
 
-**Date:** Saturday, April 18, 2026  
+**Date:** Saturday, April 18, 2026 1:00-3:00 PM Innovation e210 
 **Audience:** Class, instructors, and BJ Hargrave (IBM)
 
 Final presentations are your opportunity to showcase what your team built during sprint week. This page outlines the format, requirements, and evaluation criteria.
@@ -9,13 +9,9 @@ Final presentations are your opportunity to showcase what your team built during
 
 ## Presentation Format
 
-- **Length:** TBD (announced before closeout)
+- **Length:** 7 minutes (announced before closeout)
 - **Format:** Live presentation with slides; include a live demo or video demo of your project
 - **Order:** Team order announced before the session
-- **Session timing:**
-	- **4:00 PM** Team presentations
-	- **5:00 PM** Awards + next steps
-	- **5:30 PM** Closing remarks
 
 ---
 
@@ -69,10 +65,8 @@ Presentations will be evaluated on the following dimensions:
 
 ## Recognition Categories
 
-- Best Contribution
-- Best Documentation
-- Best Debugging
-- Most Impactful to Project
+- Best Project
+- Runner Up
 
 ---
 
@@ -88,7 +82,7 @@ Presentations will be evaluated on the following dimensions:
 
 ## Day-of Logistics
 
-- Arrive / log in early to test your screen sharing and demo environment.
+- Arrive early to test your screen sharing and demo environment.
 - Have your slide deck open and your project running before your slot.
 - One team member should drive the demo while another narrates, or divide it however works best for your team.
 - Keep a local or recorded backup demo ready in case connectivity fails.

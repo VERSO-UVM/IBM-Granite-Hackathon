@@ -10,10 +10,8 @@ All times are Eastern Time (ET). Details may be updated as the event approaches 
 
 | Time | Event | Location / Link |
 |------|-------|-----------------|
-| TBD | **Kickoff keynote + orientation (BJ Hargrave, IBM)** | TBD |
-| TBD | Generative programming overview (Granite, Mellea, Docling, agent workflows) | TBD |
-| TBD | Guided brainstorming and team issue selection | TBD |
-| TBD | Setup support (repos, access, workflows) | TBD |
+| 1:00-3:00pm | **Kickoff keynote + orientation (BJ Hargrave, IBM)** | Innovation e210 |
+| 3:00-5:00| Open working times | Innovation e210 |
 
 ### Kickoff Presentation Topics
 BJ Hargrave from IBM will cover:
@@ -30,7 +28,6 @@ BJ Hargrave from IBM will cover:
 | Time | Event |
 |------|-------|
 | Flexible | Team development and contribution work |
-| TBD | 1-hour virtual office hours (see [Office Hours](office-hours.md)) |
 
 ---
 
@@ -49,7 +46,7 @@ BJ Hargrave from IBM will cover:
 | Time | Event |
 |------|-------|
 | Flexible | Team development and async mentor feedback |
-| TBD | Office hours (see [Office Hours](office-hours.md)) |
+
 
 ---
 
@@ -76,9 +73,9 @@ BJ Hargrave from IBM will cover:
 
 | Time | Event | Notes |
 |------|-------|-------|
-| 4:00 PM | **Team Presentations** | Each team presents contribution + demo |
-| 5:00 PM | Awards and next steps | Best contribution, docs, debugging, impact |
-| 5:30 PM | Closing remarks | Follow-on opportunities and thank-you |
+| 1:00 PM | **Team Presentations** | Each team presents contribution + demo | Innovation e210 |
+| 2:30 PM | Awards and next steps | Best contribution, docs, debugging, impact | Innovation e210 |
+| 3:00 PM | Closing remarks | Follow-on opportunities and thank-you |
 
 See the [Final Presentation](final-presentation.md) page for presentation guidelines and requirements.
 
@@ -88,9 +85,6 @@ See the [Final Presentation](final-presentation.md) page for presentation guidel
 
 | Milestone | Target Window | Notes |
 |----------|---------------|-------|
-| Project and mentor alignment | Mid-February (6–8 weeks prior) | IBM + VERSO scope projects and mentor assignments |
-| Student awareness and recruiting | March (4–5 weeks prior) | UVM + VERSO outreach |
-| Final prep and onboarding | Week of April 5 | Environment setup and logistics |
 | Team registration | By kickoff day (April 12) | Add your team to [Teams](teams.md) |
 | First meaningful contribution draft | By Day 5 | PR, issue, doc, or prototype artifact |
 | Final slides and demo backup | Before April 18 session | See [Final Presentation](final-presentation.md) |

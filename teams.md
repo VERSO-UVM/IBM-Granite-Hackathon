@@ -36,10 +36,10 @@ When submitting your PR, copy this template and fill it in:
 
 ## Team Formation Tips
 
-- **Size:** Teams of 2–5 are recommended for one-week sprint scope.
-- **Diverse skills:** Consider mixing students with different strengths — frontend, backend, data analysis, and communication/design.
+- **Size:** Teams of 2–5 are recommended for one-week sprint scope. Choose a team lead who will create and share the repo
+- **Diverse skills:** Consider mixing up the team with different strengths — frontend, backend, data analysis, and communication/design.
 - **Pick a clear idea early:** Check the [Ideas](ideas.md) page for inspiration and lock in your topic by the end of kickoff day.
-- **Divide and conquer:** Break your project into independent pieces that team members can work on in parallel.
+- **Divide and conquer:** Break your project into independent pieces that team members can work on in parallel. Use Github Issues to document and assign task
 
 ## Contribution Expectations
 
@@ -50,7 +50,6 @@ Each team should target at least one meaningful artifact by closeout:
 - Documentation/tutorial contribution
 - Working prototype with clear setup and results
 
-If enrollment scales to larger cohorts, instructors may also designate a smaller set of team leads for mentor coordination.
 
 ---
 

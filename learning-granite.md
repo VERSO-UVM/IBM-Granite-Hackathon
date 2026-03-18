@@ -1,6 +1,6 @@
 # Learning Granite for the Sprint
 
-This page is the sprint onboarding hub for **Granite**, **Mellea**, and **Docling** project work.
+This page is the sprint onboarding hub for **Granite**.
 
 ---
 
@@ -19,7 +19,7 @@ Key properties:
 
 1. **Start with one recipe** from the Granite agent cookbook.
 2. **Reproduce it locally** and document what you changed.
-3. **Choose your direction**: Granite agent workflow, Mellea generative programming, or Docling document intelligence.
+3. **Choose your direction**: Granite agent workflow.
 4. **Define an MVP** you can demo by April 18.
 
 ---
@@ -34,8 +34,6 @@ Key properties:
 | Granite model documentation | <https://www.ibm.com/docs/en/watsonx> |
 | IBM Developer — Granite tutorials | <https://developer.ibm.com/components/granite/> |
 | Granite Agent Cookbook | <https://github.com/ibm-granite-community/granite-agent-cookbook> |
-| Mellea | <https://github.com/generative-computing/mellea> |
-| Docling | <https://github.com/docling-project/docling> |
 
 ---
 
@@ -122,7 +120,7 @@ A model for safety and trust evaluation.
 Before Kickoff
 ├── Read the IBM Granite product page
 ├── Skim Granite agent cookbook recipes
-└── Pick a tentative project track (Granite / Mellea / Docling)
+└── Pick a tentative project track
 
 Kickoff Day (Sunday, April 12)
 ├── Attend BJ Hargrave's workshop

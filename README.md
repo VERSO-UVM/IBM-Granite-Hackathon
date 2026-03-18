@@ -17,9 +17,9 @@ During sprint week (**Sunday, April 12 – Saturday, April 18, 2026**), student 
 
 ## At a Glance
 
-- **Kickoff (in person):** Sunday, April 12 — workshop and guided brainstorming with IBM mentors (1-3 at Room  210E, working continutes after, record session, get api key for replikate )
-- **Build phase:** April 13–17 — team development with daily office hours and async feedback
-- **Closing presentations (in person):** Saturday, April 18 — team demos, review, and awards (1-3 210E)
+- **Kickoff (in person):** Sunday, April 12 1:00-3:00 Innovation 210 — workshop (and receive your API key for Granite) and guided brainstorming with IBM mentor BJ Hargrave. The space will be open after 3:00 for teams to continue working if they want. The workshop will be recorded for review if needed. If you cannot attend please email kendall.fortney@uvm.edu
+- **Build phase:** April 13–17 — team development with office hours and async feedback, in-class work periods on Tue/Thu 10:05-11:20 and 4:25-5:40
+- **Closing presentations (in person):** Saturday, April 18 1:00-3:00 Innovation 210 — Team presentations, demos and awards
 - **Themes:** Granite agents, Mellea, Docling, and open-source contribution workflows
 
 ## Getting Started
