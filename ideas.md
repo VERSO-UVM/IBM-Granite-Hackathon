@@ -34,20 +34,6 @@ This sprint uses a simple four-phase flow:
 - Multi-step coding helper (plan, implement, test, summarize).
 - Documentation triage agent for open-source repos.
 
-### 2) Mellea Generative Programming
-- Small generative program that composes prompts, tools, and checks.
-- Compare output quality across prompt/system variants.
-- Add reproducible evaluation notes in your repo.
-
-### 3) Docling-Powered Document Intelligence
-- Parse PDFs and build a question-answer flow with source grounding.
-- Convert technical docs to structured markdown for downstream tasks.
-- Build a "document-to-summary/action-items" pipeline.
-
-### 4) Granite Code Contributions
-- Bug-fix assistant workflow for a scoped open issue.
-- PR review helper that explains risks and suggested tests.
-- README/docstring generation and validation loop.
 
 ---
 
