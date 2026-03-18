@@ -18,7 +18,7 @@ During sprint week (**Sunday, April 12 – Saturday, April 18, 2026**), student 
 
 ## At a Glance
 
-- **Kickoff (in person):** Sunday, April 12 — workshop and guided brainstorming with IBM mentors
+- **Kickoff (in person):** Sunday, April 12 — workshop and guided brainstorming with IBM mentors (1-3, working continutes after, record session)
 - **Build phase:** April 13–17 — team development with daily office hours and async feedback
 - **Closing presentations (in person):** Saturday, April 18 — team demos, review, and awards
 - **Themes:** Granite agents, Mellea, Docling, and open-source contribution workflows
