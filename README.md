@@ -1,6 +1,5 @@
-# UVM–IBM Generative Programming Innovation Sprint
-
-Welcome to the home page for the **UVM–IBM Generative Programming Innovation Sprint** for Advanced Programming students at the University of Vermont.
+# UVM–IBM Agentic Programming with Granite
+Welcome to the home page for the **UVM–IBM Agentic Programming with Granite Innovation Sprint** for Advanced Programming students at the University of Vermont.
 
 During sprint week (**Sunday, April 12 – Saturday, April 18, 2026**), student teams learn and apply generative programming methods with support from IBM mentors, VERSO staff, and UVM faculty.
 
@@ -18,7 +17,7 @@ During sprint week (**Sunday, April 12 – Saturday, April 18, 2026**), student 
 
 ## At a Glance
 
-- **Kickoff (in person):** Sunday, April 12 — workshop and guided brainstorming with IBM mentors (1-3 at Room  210E, working continutes after, record session)
+- **Kickoff (in person):** Sunday, April 12 — workshop and guided brainstorming with IBM mentors (1-3 at Room  210E, working continutes after, record session, get api key for replikate )
 - **Build phase:** April 13–17 — team development with daily office hours and async feedback
 - **Closing presentations (in person):** Saturday, April 18 — team demos, review, and awards (1-3 210E)
 - **Themes:** Granite agents, Mellea, Docling, and open-source contribution workflows
