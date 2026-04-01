@@ -22,7 +22,7 @@ Event communication will be in the [Github Discussion](https://github.com/VERSO-
 - **Kickoff (in person):** Sunday, April 12 1:00-3:00 Innovation 210 — workshop (and receive your API key for Granite) and guided brainstorming with IBM mentor BJ Hargrave. The space will be open after 3:00 for teams to continue working if they want. The workshop will be recorded for review if needed. If you cannot attend please email kendall.fortney@uvm.edu
 - **Build phase:** April 13–17 — team development with office hours and async feedback, in-class work periods on Tue/Thu 10:05-11:20 and 4:25-5:40
 - **Closing presentations (in person):** Saturday, April 18 1:00-3:00 Innovation 210 — Team presentations, demos and awards
-- **Themes:** Granite agents, Mellea, Docling, and open-source contribution workflows
+- **Themes:** Granite agent and open-source contribution workflows
 
 ## Getting Started
 
