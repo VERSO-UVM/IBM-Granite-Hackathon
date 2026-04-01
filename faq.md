@@ -7,7 +7,7 @@ Have a question not answered here? Ask during [Office Hours](office-hours.md) or
 ## General
 
 ### What is the UVM–IBM Innovation Sprint?
-The **UVM–IBM Generative Programming Innovation Sprint** is a week-long (April 12–18) project experience where teams build scoped contributions using [IBM Granite](https://www.ibm.com/granite), and optionally Mellea or Docling workflows. Teams kick off in person on April 12 and close with final presentations on April 18.
+The **UVM–IBM Generative Programming Innovation Sprint** is a week-long (April 12–18) project experience where teams build scoped contributions using [IBM Granite](https://www.ibm.com/granite) workflows. Teams kick off in person on April 12 and close with final presentations on April 18.
 
 ### Who can participate?
 All students enrolled in Advanced Programming at UVM are eligible and encouraged to participate.
