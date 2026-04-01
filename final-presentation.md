@@ -9,9 +9,11 @@ Final presentations are your opportunity to showcase what your team built during
 
 ## Presentation Format
 
-- **Length:** 7 minutes (announced before closeout)
+- **Length:** 10 minutes (announced before closeout)
 - **Format:** Live presentation with slides; include a live demo or video demo of your project
 - **Order:** Team order announced before the session
+
+All team members must be there to present, please talke to the organizers during office hours if this is an issue.
 
 ---
 
@@ -46,7 +48,7 @@ Your presentation should cover the following:
 - Your repository link should appear on your slides.
 - Recommended tools: Google Slides, PowerPoint, or Markdown-based slide tools (e.g., Marp, Reveal.js).
 
-**Submission:** Upload or link your slide deck in your team's repository before April 18. Details on how to share the link will be provided at kickoff.
+**Submission:** Upload your slide deck as a PDF in your team's repository before April 18. Details on how to share the link will be provided at kickoff.
 
 ---
 
@@ -64,6 +66,8 @@ Presentations will be evaluated on the following dimensions:
 | **Presentation Quality** | Clear story, confident delivery, effective demo |
 
 ## Recognition Categories
+
+We will have Granite Stickes for the teams that win the following categories:
 
 - Best Project
 - Runner Up
