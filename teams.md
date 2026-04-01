@@ -6,11 +6,17 @@ This page lists participating teams in the UVM–IBM Generative Programming Inno
 
 ## How to Register Your Team
 
-1. **Fork** this repository to create your team's project repo.
-2. Open a Pull Request against this repository adding your team entry to the table below.
-3. Include team name, member GitHub usernames, project track, and project repo link.
+1. Click New Discussion in the Team Registration in [Discussions](https://github.com/VERSO-UVM/IBM-Granite-Hackathon/discussions)
+2. Use your team name as the title
+3. Copy and fill in the template below
 
-Use the format in the template below.
+Team Name:
+Team Lead: @github-username
+Members: @github1, @github2, @github3
+Project Repo: (link here once created — you can edit this after posting)
+One-line description: What is the problem you are trying to tackle?
+
+Registration deadline: Before kickoff, Sunday April 12 at 1:00 PM.
 
 ---
 
