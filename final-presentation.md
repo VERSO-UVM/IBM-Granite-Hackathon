@@ -10,7 +10,7 @@ Final presentations are your opportunity to showcase what your team built during
 ## Presentation Format
 
 - **Length:** 10 minutes (announced before closeout)
-- **Format:** Live presentation with slides; include a live demo or video demo of your project
+- **Format:** Live presentation with slides; include a live demo of your project
 - **Order:** Team order announced before the session
 
 All team members must be there to present, please talk to the organizers during office hours if this is an issue.
