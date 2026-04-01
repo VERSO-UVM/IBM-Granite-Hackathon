@@ -6,7 +6,7 @@ This page is the sprint onboarding hub for **Granite**.
 
 ## What Is IBM Granite?
 
-IBM Granite models are designed for tasks such as code generation, natural language understanding, summarization, and more. They are available through IBM's [watsonx.ai](https://www.ibm.com/products/watsonx-ai) platform and as open-source models on Hugging Face.
+IBM Granite models are designed for tasks such as code generation, natural language understanding, summarization, and more. They are available through IBM's [watsonx.ai](https://www.ibm.com/products/watsonx-ai) platform and as open-source models on Ollama and Hugging Face.
 
 Key properties:
 - **Open and transparent** foundation models
@@ -30,9 +30,9 @@ Key properties:
 |----------|------|
 | IBM Granite product page | <https://www.ibm.com/granite> |
 | watsonx.ai platform | <https://www.ibm.com/products/watsonx-ai> |
+| IBM Granite on Ollama | <https://ollama.com/ibm/granite4> |
 | IBM Granite on Hugging Face | <https://huggingface.co/ibm-granite> |
-| Granite model documentation | <https://www.ibm.com/docs/en/watsonx> |
-| IBM Developer — Granite tutorials | <https://developer.ibm.com/components/granite/> |
+| Granite model documentation | <https://www.ibm.com/granite/docs> |
 | Granite Agent Cookbook | <https://github.com/ibm-granite-community/granite-agent-cookbook> |
 
 ---
@@ -49,19 +49,13 @@ Build agentic workflows for coding, documentation, or analysis tasks.
 ### Granite Language Models
 General-purpose large language models for text tasks (summarization, classification, Q&A, generation).
 
-- [ibm-granite/granite-3.3-8b-instruct](https://huggingface.co/ibm-granite/granite-3.3-8b-instruct) — 8B parameter instruction-tuned model
-- [ibm-granite/granite-3.3-2b-instruct](https://huggingface.co/ibm-granite/granite-3.3-2b-instruct) — lightweight 2B parameter model
-
-### Granite Code Models
-Specialized models for code generation, explanation, and completion.
-
-- [granite-34b-code-instruct](https://huggingface.co/ibm-granite/granite-34b-code-instruct-8k)
-- [Granite Code Models overview](https://github.com/ibm-granite/granite-code-models)
+- [ibm-granite/granite-4.0-micro](https://huggingface.co/ibm-granite/granite-4.0-micro) — 3B parameter instruction-tuned model
+- [ibm-granite/granite-4.0-1b](https://huggingface.co/ibm-granite/granite-4.0-1b) — 1B parameter instruction-tuned model
 
 ### Granite Guardian
 A model for safety and trust evaluation.
 
-- [ibm-granite/granite-guardian-3.2-5b](https://huggingface.co/ibm-granite/granite-guardian-3.2-5b)
+- [ibm-granite/granite-guardian-3.3-8b](https://huggingface.co/ibm-granite/granite-guardian-3.3-8b)
 
 ---
 
@@ -71,8 +65,7 @@ A model for safety and trust evaluation.
 |----------|------|
 | Getting started with watsonx.ai | <https://developer.ibm.com/tutorials/awb-getting-started-watsonx-ai/> |
 | Prompt engineering basics | <https://www.ibm.com/topics/prompt-engineering> |
-| Granite code generation notebook | <https://github.com/ibm-granite-community/granite-code-cookbook> |
-| Granite language cookbook | <https://github.com/ibm-granite-community/granite-language-cookbook> |
+| Granite snack cookbook | <https://github.com/ibm-granite-community/granite-snack-cookbook> |
 | IBM Granite community GitHub | <https://github.com/ibm-granite-community> |
 | Granite agent cookbook | <https://github.com/ibm-granite-community/granite-agent-cookbook> |
 
@@ -90,7 +83,7 @@ A model for safety and trust evaluation.
    - [Fine-tuning overview](https://www.ibm.com/topics/fine-tuning)
 
 4. **LangChain / LlamaIndex with Granite** — Popular frameworks for building LLM applications.
-   - [LangChain docs](https://python.langchain.com/docs/introduction/)
+   - [LangChain docs](https://docs.langchain.com/oss/python/langchain/overview)
    - [LlamaIndex docs](https://docs.llamaindex.ai/)
 
 ---
