@@ -13,7 +13,7 @@ Final presentations are your opportunity to showcase what your team built during
 - **Format:** Live presentation with slides; include a live demo or video demo of your project
 - **Order:** Team order announced before the session
 
-All team members must be there to present, please talke to the organizers during office hours if this is an issue.
+All team members must be there to present, please talk to the organizers during office hours if this is an issue.
 
 ---
 
