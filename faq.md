@@ -74,8 +74,7 @@ Presentation length will be announced before April 18. See [Final Presentation](
 See the [Final Presentation](final-presentation.md) page for full guidelines. At minimum, cover: the problem you solved, how you used IBM Granite, a live demo or video demo, and lessons learned.
 
 ### Will there be judging or prizes?
-Yes. Awards include categories such as Best Contribution, Best Documentation, Best Debugging, and Most Impactful to Project.
-
+Yes, there will be judging for Best Project and Runner Up. Prizes will be a Granite sticker and being highlighted in press releases and posts about this hackathon
 ---
 
 ## Help & Support
