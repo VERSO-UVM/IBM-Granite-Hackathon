@@ -55,7 +55,7 @@ General-purpose large language models for text tasks (summarization, classificat
 ### Granite Code Models
 Specialized models for code generation, explanation, and completion.
 
-- [ibm-granite/granite-3.3-8b-instruct](https://huggingface.co/ibm-granite/granite-3.3-8b-instruct)
+- [granite-34b-code-instruct](https://huggingface.co/ibm-granite/granite-34b-code-instruct-8k)
 - [Granite Code Models overview](https://github.com/ibm-granite/granite-code-models)
 
 ### Granite Guardian
