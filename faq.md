@@ -21,8 +21,6 @@ Teams of 2–5 are recommended. Check [Teams](teams.md) for current guidance.
 ### What are the project tracks?
 Teams can focus on:
 - Granite agent workflows
-- Mellea generative programming
-- Docling document intelligence
 - Granite code contribution tooling
 
 ---
