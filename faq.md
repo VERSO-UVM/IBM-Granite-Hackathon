@@ -68,7 +68,7 @@ No required stack. Use the tools and frameworks that best fit your project. IBM 
 ## Presentations
 
 ### How long is the final presentation?
-Presentation length will be announced before April 18. The closing block runs from 4:00 PM to 5:30 PM. See [Final Presentation](final-presentation.md).
+Presentation length will be announced before April 18. See [Final Presentation](final-presentation.md).
 
 ### What should our presentation cover?
 See the [Final Presentation](final-presentation.md) page for full guidelines. At minimum, cover: the problem you solved, how you used IBM Granite, a live demo or video demo, and lessons learned.
