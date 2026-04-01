@@ -3,6 +3,8 @@ Welcome to the home page for the **UVM–IBM Agentic Programming with Granite In
 
 During sprint week (**Sunday, April 12 – Saturday, April 18, 2026**), student teams learn and apply generative programming methods with support from IBM mentors, VERSO staff, and UVM faculty.
 
+Event communication will be in the [Github Discussion](https://github.com/VERSO-UVM/IBM-Granite-Hackathon/discussions), it is where you will register your team, talk to your team and interact with office hours.
+
 ## Quick Navigation
 
 | Page | Description |
