@@ -29,7 +29,7 @@ This sprint uses a simple four-phase flow:
 
 ## Project Directions (High Fit)
 
-### 1) Granite Agent Workflows
+### Granite Agent Workflows
 - Task-planning and execution agent using LangGraph patterns.
 - Multi-step coding helper (plan, implement, test, summarize).
 - Documentation triage agent for open-source repos.
@@ -44,6 +44,11 @@ This sprint uses a simple four-phase flow:
 - Keep your repo presentation-ready: setup steps, architecture note, and results.
 
 ---
+
+## AI Policy
+
+You can use Copilot that comes with your UVM account, no other models are allowed to keep the access equitable.
+you must document where in the project and how to you use it in your repo.
 
 ## Useful Links
 
