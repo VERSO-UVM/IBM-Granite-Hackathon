@@ -27,7 +27,7 @@ Your presentation should cover the following:
 
 4. **How You Used IBM Granite** — Explain which Granite model(s) you used, how you integrated them, and why you chose them for this task. This is a critical section!
 
-5. **Demo** — Show your project working! A live demo is preferred; a recorded video demo is acceptable as a backup.
+5. **LIVE Demo** — Show your project working! A live demo is preferred; a recorded video demo is acceptable as a backup. This is important!
 
 6. **Technical Architecture** — Brief overview of your tech stack, data flow, and any interesting engineering decisions.
 
